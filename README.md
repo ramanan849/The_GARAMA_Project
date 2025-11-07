@@ -2,6 +2,7 @@
 
 ---
 PH556 Course Project - Autumn '25
+Instructor: Prof. Varun Bhalerao
 
 # Title: Instrumentation (CMOS) Characterization and Atmospheric Extinction Calculation using GIT
 
