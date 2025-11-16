@@ -31,7 +31,7 @@ Instructor: Prof. Varun Bhalerao
   - [Calibrated NGC 1039 Data]()
   - [Bias, Dark and Light Frames of SBIG STC-428 FW CMOS Detector]()
   
-6. [Presentation on 07/11/25](https://github.com/ramanan849/The_GARAMA_Project/blob/a6e412ea71042abb45e9eab9b42e3a679833f286/Presentation_GARAMA.pdf)
+6. [Presentation on 07/11/25](https://github.com/ramanan849/The_GARAMA_Project/blob/d5fa7e1ed99dfad672f4effd1a50b52e598012f2/Presentation_GARAMA.pdf)
 7. Individual Reports:
    - [Anvit's]()
    - [Gokul's](https://github.com/ramanan849/The_GARAMA_Project/blob/a6e412ea71042abb45e9eab9b42e3a679833f286/Reports/Gokul_23B1854.pdf)
