@@ -34,7 +34,7 @@ Instructor: Prof. Varun Bhalerao
   
 6. [Presentation on 07/11/25](https://github.com/ramanan849/The_GARAMA_Project/blob/d5fa7e1ed99dfad672f4effd1a50b52e598012f2/Presentation_GARAMA.pdf)
 7. Individual Reports:
-   - [Anvit's]()
+   - [Anvit's](https://github.com/ramanan849/The_GARAMA_Project/blob/d6ef320adc47aca2cb523156bf1c3ba405a5293a/Reports/Anvit_23B1828.pdf)
    - [Gokul's](https://github.com/ramanan849/The_GARAMA_Project/blob/a6e412ea71042abb45e9eab9b42e3a679833f286/Reports/Gokul_23B1854.pdf)
    - [Arya's]()
    - [Ronit's]()
