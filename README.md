@@ -19,12 +19,12 @@ Instructor: Prof. Varun Bhalerao
 
 1. Instrumentation (CMOS) Characterization Code:
 
-  - [CMOS Characterization using Monitor Method](https://github.com/ramanan849/The_GARAMA_Project/blob/0c648d102d32a0f832320acdd3ac81c105fd0ab9/Detector_calibration/Monitor_CMOS_charecterization.ipynb)
-  - [CMOS Characterization using Mean Variance Method](https://github.com/ramanan849/The_GARAMA_Project/blob/0c648d102d32a0f832320acdd3ac81c105fd0ab9/Detector_calibration/mean_variance_CMOS_charecterization.ipynb)
+    - [CMOS Characterization using Monitor Method](https://github.com/ramanan849/The_GARAMA_Project/blob/0c648d102d32a0f832320acdd3ac81c105fd0ab9/Detector_calibration/Monitor_CMOS_charecterization.ipynb)
+    - [CMOS Characterization using Mean Variance Method](https://github.com/ramanan849/The_GARAMA_Project/blob/0c648d102d32a0f832320acdd3ac81c105fd0ab9/Detector_calibration/mean_variance_CMOS_charecterization.ipynb)
   
 3. Atmospheric Extinction Calculation Code:
-  - [Cluster Fitting](https://github.com/ramanan849/The_GARAMA_Project/blob/0c648d102d32a0f832320acdd3ac81c105fd0ab9/Atmospheric_Extinction/Cluster_Fitting.ipynb)
-  - [CLuster Photometry](https://github.com/ramanan849/The_GARAMA_Project/blob/0c648d102d32a0f832320acdd3ac81c105fd0ab9/Atmospheric_Extinction/Cluster_Photometry.ipynb)
+    - [Cluster Fitting](https://github.com/ramanan849/The_GARAMA_Project/blob/0c648d102d32a0f832320acdd3ac81c105fd0ab9/Atmospheric_Extinction/Cluster_Fitting.ipynb)
+    - [CLuster Photometry](https://github.com/ramanan849/The_GARAMA_Project/blob/0c648d102d32a0f832320acdd3ac81c105fd0ab9/Atmospheric_Extinction/Cluster_Photometry.ipynb)
 4. [Output and Plots](https://github.com/ramanan849/The_GARAMA_Project/tree/0c648d102d32a0f832320acdd3ac81c105fd0ab9/Outputs)
 
 5. Data:
